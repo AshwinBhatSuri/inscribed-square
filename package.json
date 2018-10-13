@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Find inscribed for a curve",
+  "main": "index.html",
+  "dependencies": {
+    "paper": "^0.11.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulgurnani/inscribed-square.git"
+  },
+  "author": "rahulgurnani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahulgurnani/inscribed-square/issues"
+  },
+  "homepage": "https://github.com/rahulgurnani/inscribed-square#readme"
+}
